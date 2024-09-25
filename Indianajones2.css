@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.gameplay-modal{
+  width: 60rem!important;
+}
+.carousel-image{
+  height: 40rem;
+}
+.hero-container{
+  width: 85%;
+}
+.hero-image{
+  width: 50% ;
+}
+
+.bg-section {
+  background-image: url('https://www.lego.com/cdn/cs/set/assets/blt5eaead2481236c33/04-Hero-Tall-Pineapple-Desktop.jpg?fit=crop&format=webply&quality=80&width=1600&height=700&dpr=1.5');
+  background-position: center;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-left: 20px;
+  color: white;
+}
+
+/* Style for the text container */
+.text-container {
+  max-width: 400px;
+  margin-right: 15rem ;
+}
+.reception-drawer{
+  width: 25rem !important;
+}
